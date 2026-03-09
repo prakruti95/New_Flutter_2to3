@@ -1,0 +1,19 @@
+1.
+Github Desktop Software
+https://desktop.github.com/download/
+
+2.
+Git CMD
+https://git-scm.com/install/windows
+
+3.
+Dart - SDK
+SDK-software development kit
+https://git-scm.com/install/windows
+
+4.
+Editor
+IntelIJIDEA
+https://www.jetbrains.com/toolbox-app/
+
+
