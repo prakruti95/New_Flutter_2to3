@@ -1,0 +1,42 @@
+print
+stdout.write
+
+variable declaration
+int a
+float b
+char c
+
+data type:
+integer -> int -> numeric value
+float -> float -> decimal value -> 4 byte
+character -> char -> single character
+double -> double -> decimal value -> 8 byte
+boolean -> true,false
+long -> lengthy integer
+String -> multiple lines
+
+operators:
+1)arithmetic op : 
++,-,*,/,%
+
+2)shorthand op:
++=,-=,*=,/=,%=
+
+a+=b -> a=a+b
+b-=c -> b=b-c
+a*=b ->  
+
+3)Relational op:
+<,>,<=,>=,==,!=
+
+
+
+
+
+
+
+
+
+
+
+
