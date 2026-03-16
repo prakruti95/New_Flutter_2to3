@@ -1,0 +1,13 @@
+17. Write Program use switch statement. Display Monday to Sunday
+
+18. Write a Program of Addition, Subtraction ,Multiplication and Division using
+switch
+
+19. Write a program of to find out the Area of Triangle, Rectangle and Circle
+using If Condition.
+
+20.Check Entered Year is leap year or not
+
+21.Check Entered Number is prime or not
+
+22.Check Entered Number is odd or even

@@ -1,0 +1,14 @@
+Conditional statement:
+
+1)if-else
+
+2)else if
+70 - A Grade
+60 - B Grade
+50 - C Grade
+40 - D Grade
+Fail
+
+3)only if
+4)Nested if
+5)switch-case-break
