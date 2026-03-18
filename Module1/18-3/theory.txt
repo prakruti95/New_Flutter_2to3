@@ -1,0 +1,37 @@
+Loop:When you want to run same code again and again
+
+1) Entry Control Loop : for,while
+2) Exit Control Loop : do while
+
+-> for in loop
+-> for each loop
+
+1)
+for(initialization;condition;incre/decre)
+{
+  statements
+}
+
+2)
+initialization;
+while(condition)
+{
+ statements
+ incre/decre
+}
+
+3)
+initialization;
+do
+{
+ statements
+ incre/decre
+}
+while(condition);
+
+-> when you want to call variable value use $ sign
+
+ex: $name
+
+
+
