@@ -1,0 +1,19 @@
+import 'dart:io';
+
+void main()
+{
+      int row,col;
+      var num=65;
+      for(row=1;row<=5;row++)
+      {
+          for(col=1;col<=row;col++)
+          {
+
+            stdout.write("${String.fromCharCode(num)}");
+
+          }
+          num++;
+
+          print("");
+      }
+}
