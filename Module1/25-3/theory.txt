@@ -1,0 +1,16 @@
+Function: when you have to run same code again and again
+
+Parameters/Arguments
+
+int cal(int a,int b)
+{
+}
+cal(int a,int b)
+{
+}
+-> dart says return type in function is not mandatory
+
+Types of Parameters:
+1)optional parameter
+2)named parameter
+3)default parameter
