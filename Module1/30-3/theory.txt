@@ -1,0 +1,16 @@
+Constructor:When Method having a same as a classname that is called
+constructor
+
+Types of Constructor
+1)default
+2)parameterized
+3)named 
+
+-> constructor does not have a return type
+
+this -> when you want to pass any refrence for refrence passing use this keyword
+
+Static -> When you want to fix anything use static keyword
+1)Static variable
+2)Static Method
+
