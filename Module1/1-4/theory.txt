@@ -1,0 +1,12 @@
+encapsulation:
+
+inheritance:
+parent - child
+super - sub
+base - derived
+
+-> Abstract class Will support abstract methods 
+as well as non-abstract method
+
+
+->Non Abstract class Will Only support non-abstract method

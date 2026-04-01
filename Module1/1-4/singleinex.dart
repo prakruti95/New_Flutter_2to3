@@ -1,0 +1,23 @@
+class A
+{
+  void a()
+  {
+    print("A called");
+  }
+}
+class B extends A
+{
+    void b()
+    {
+      print("B called");
+    }
+}
+
+void main()
+{
+
+    B b1 = B();
+
+    b1.a();
+    b1.b();
+}
