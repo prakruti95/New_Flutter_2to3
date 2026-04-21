@@ -1,0 +1,8 @@
+app icon generator
+
+android -> manifest.xml
+ios ->info.plist
+
+android -> G:\data1\myapp123\android\app\src\main\res
+
+ios -> G:\data1\myapp123\ios\Runner
