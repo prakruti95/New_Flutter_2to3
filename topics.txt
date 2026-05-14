@@ -20,6 +20,25 @@ PageView
 Theme
 MaterialApp vs Cupertino
 ----------------------
+Ratingbar
+Stack
+ExpansionTile
+Card
+Listview
+Gridview
+DropDown
+Flexible
+Expanded
+Gesturedetector
+InkWell
+Ale
+Chip
+CircularProgressIndicator
+Customized Widgets
+Slider
+Checkbox
+RadioButton
+
 
 
 
